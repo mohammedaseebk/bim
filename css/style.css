@@ -1,15 +1,5 @@
 @charset "UTF-8";
-/**
- * [Table of contents]
- *   1 Base
- *   2 Components
- *   3 Helpers
- *   4 Plugins
- */
-/** @group Base */
-/*
-* Contexts
-*/
+
 
 
 .context-dark, .bg-gray-700, .bg-gray-800, .bg-primary {
